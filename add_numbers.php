@@ -2,7 +2,7 @@
 <?php
 
 /**
- * Hey fellows, do not EVER use this shitty algorhythm! It's slower than a snail!
+ * Hey fellows, do not EVER use this shitty algorithm! It's slower than a snail!
  * Use ASM! Chuck Norris uses only ASM! There is a Carry Flag CF (0x0001)
  * in a flags register  in Your x86 CPU. Go ahead, use it! Be a man!
  */
